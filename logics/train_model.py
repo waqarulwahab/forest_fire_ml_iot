@@ -31,7 +31,7 @@ def calculate_metrics(y_true, y_pred):
     return metrics
 
 
-
+print("TEsting")
 
 def train_all_models(read_csv, models):
     df = read_csv
